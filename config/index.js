@@ -1,5 +1,9 @@
 /* eslint key-spacing:0 spaced-comment:0 */
-/* eslint-disable quote-props */
+/* eslint-disable quote-props,
+                  array-callback-return,
+                  consistent-return,
+                  import/newline-after-import
+*/
 
 import path from 'path';
 import _debug from 'debug';
